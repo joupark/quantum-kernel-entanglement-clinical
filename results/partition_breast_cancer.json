@@ -1,0 +1,26 @@
+{
+ "dataset": "breast_cancer",
+ "available": 569,
+ "available_pos": 357,
+ "available_neg": 212,
+ "subset": 300,
+ "subset_per_class": 150,
+ "unused": 269,
+ "subset_seed": 0,
+ "outer_train_sizes": [
+  240
+ ],
+ "outer_test_sizes": [
+  60
+ ],
+ "outer_test_pos_counts": [
+  30
+ ],
+ "inner_train_sizes": [
+  160
+ ],
+ "inner_val_sizes": [
+  80
+ ],
+ "n_outer_folds": 100
+}

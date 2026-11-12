@@ -1,0 +1,31 @@
+{
+ "dataset": "heart_disease",
+ "available": 297,
+ "available_pos": 137,
+ "available_neg": 160,
+ "subset": 274,
+ "subset_per_class": 137,
+ "unused": 23,
+ "subset_seed": 0,
+ "outer_train_sizes": [
+  219,
+  220
+ ],
+ "outer_test_sizes": [
+  54,
+  55
+ ],
+ "outer_test_pos_counts": [
+  27,
+  28
+ ],
+ "inner_train_sizes": [
+  146,
+  147
+ ],
+ "inner_val_sizes": [
+  73,
+  74
+ ],
+ "n_outer_folds": 100
+}

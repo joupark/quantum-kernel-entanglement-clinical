@@ -1,0 +1,98 @@
+{
+ "dataset": "heart_disease",
+ "folds": 100,
+ "kernels": {
+  "fqk_cos2": {
+   "cka_selected_rbf": {
+    "mean": 0.9581578110637036,
+    "min": 0.530698466851817
+   },
+   "cka_best_rbf": {
+    "mean": 0.9995800153511227,
+    "min": 0.9979650737803574
+   },
+   "cka_best_rbf_s1": {
+    "mean": 0.9197426468090533,
+    "min": 0.9046690305990015
+   },
+   "cka_aniso_gauss": {
+    "mean": 0.9976583962521525,
+    "min": 0.9854148821677793
+   },
+   "metric_eig_ratio": {
+    "mean": 0.9057120304415816,
+    "min": 0.4815924253100314
+   },
+   "n_folds_metric_positive_definite": 100
+  },
+  "zz": {
+   "cka_selected_rbf": {
+    "mean": 0.736320775183097,
+    "min": 0.40052655069326415
+   },
+   "cka_best_rbf": {
+    "mean": 0.7767973082514135,
+    "min": 0.7641474658685121
+   },
+   "cka_best_rbf_s1": {
+    "mean": 0.9280196874007703,
+    "min": 0.9176303709524094
+   },
+   "cka_aniso_gauss": {
+    "mean": 0.9950735863363006,
+    "min": 0.9491511924988609
+   },
+   "metric_eig_ratio": {
+    "mean": 0.025843546073278604,
+    "min": 0.0021511410263659525
+   },
+   "n_folds_metric_positive_definite": 100
+  },
+  "reup2": {
+   "cka_selected_rbf": {
+    "mean": 0.9301832138702806,
+    "min": 0.5267756715566271
+   },
+   "cka_best_rbf": {
+    "mean": 0.9741287817823314,
+    "min": 0.9310405772200787
+   },
+   "cka_best_rbf_s1": {
+    "mean": 0.7857417923316815,
+    "min": 0.7566986971825711
+   },
+   "cka_aniso_gauss": {
+    "mean": 0.9913011905259687,
+    "min": 0.9318314386168005
+   },
+   "metric_eig_ratio": {
+    "mean": 0.4622890636329846,
+    "min": 0.2838440630435436
+   },
+   "n_folds_metric_positive_definite": 100
+  },
+  "reup3": {
+   "cka_selected_rbf": {
+    "mean": 0.8900469573739548,
+    "min": 0.513798689872556
+   },
+   "cka_best_rbf": {
+    "mean": 0.9302084403312929,
+    "min": 0.899014559566025
+   },
+   "cka_best_rbf_s1": {
+    "mean": 0.9012031359192306,
+    "min": 0.889325216806342
+   },
+   "cka_aniso_gauss": {
+    "mean": 0.9907449766899119,
+    "min": 0.9055323738970646
+   },
+   "metric_eig_ratio": {
+    "mean": 0.29950339302564183,
+    "min": 0.1277589245958304
+   },
+   "n_folds_metric_positive_definite": 100
+  }
+ }
+}

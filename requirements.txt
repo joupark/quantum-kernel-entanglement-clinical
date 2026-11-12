@@ -1,0 +1,10 @@
+# Exact versions with which every result in results/ was produced and checked.
+# Other versions of scikit-learn (its SVM solver) or numpy can change a few
+# fold-level hyperparameter selections, and with them some numbers in the
+# third decimal place; see README.
+numpy==2.4.6
+scipy==1.15.3
+scikit-learn==1.8.0
+pandas==3.0.6        # prepare_hd.py
+matplotlib==3.11.2   # make_paper_figures.py
+qiskit==1.4.2        # verify_kernels_qiskit.py only

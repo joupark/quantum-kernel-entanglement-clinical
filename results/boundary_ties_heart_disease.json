@@ -1,0 +1,2546 @@
+{
+ "dataset": "heart_disease",
+ "tolerance": 1e-12,
+ "kernels": {
+  "rbf": {
+   "n_edge": 40,
+   "n_edge_with_interior_tie": 23,
+   "max_gap_when_no_tie": 0.009134134134134109,
+   "median_gap_when_no_tie": 0.004379379379379489,
+   "per_fold": [
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512530272
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0048798798798799226
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.000375375375375242
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0005005005005004337
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512530272
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008758758758758867
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004004004004004025
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379489
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379378
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045046805
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009134134134134109
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379267
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    }
+   ]
+  },
+  "fqk_cos2": {
+   "n_edge": 40,
+   "n_edge_with_interior_tie": 14,
+   "max_gap_when_no_tie": 0.013263263263263325,
+   "median_gap_when_no_tie": 0.0045045045045045695,
+   "per_fold": [
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004754754754754842
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512530272
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00037537537537546406
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008758758758758645
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009028
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379489
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00025025025025016134
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008758758758758756
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013263263263263325
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009139
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00475475475475462
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004629629629629539
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 2.220446049250313e-16
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009028
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045043475
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004629629629629761
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    }
+   ]
+  },
+  "zz": {
+   "n_edge": 70,
+   "n_edge_with_interior_tie": 4,
+   "max_gap_when_no_tie": 0.049924924924925174,
+   "median_gap_when_no_tie": 0.00925925925925919,
+   "per_fold": [
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.049924924924925174
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013638638638638678
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013888888888888618
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0001251251251251917
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00913413413413422
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009384384384384381
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00913413413413422
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009384384384384381
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013263263263263325
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00925925925925919
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.01376376376376387
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009134134134134109
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.022522522522522737
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.027402402402402437
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009008917
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.000375375375375242
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0001251251251251917
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045046805
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009134134134134109
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.031781781781781704
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.022772772772772898
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.018268268268268217
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004629629629629761
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013638638638638567
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004254254254254186
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013513513513513487
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0048798798798799226
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004254254254254297
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0048798798798799226
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.022897897897897868
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.02302302302302306
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00925925925925919
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.014389389389389384
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.022772772772772676
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.027277277277277245
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00925925925925919
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0048798798798799226
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009634634634634653
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.01388888888888895
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009259259259259411
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.02289789789789798
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004004004004004247
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013638638638638678
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013638638638638678
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004754754754754731
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.018143143143143137
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013513513513513598
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009139
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008883883883883947
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 1.1102230246251565e-16
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0185185185185186
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013763763763763981
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004754754754754731
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008633633633633786
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013513513513513487
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379267
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009139
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009008917
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013513513513513375
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    }
+   ]
+  },
+  "reup2": {
+   "n_edge": 39,
+   "n_edge_with_interior_tie": 11,
+   "max_gap_when_no_tie": 0.013513513513513598,
+   "median_gap_when_no_tie": 0.004379379379379322,
+   "per_fold": [
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": -1.1102230246251565e-16
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009028
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0041291291291289944
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009028
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379489
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0002502502502503834
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0001251251251251917
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379267
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00025025025025027237
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009139
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379378
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00025025025025016134
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379267
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013513513513513598
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009139
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009028
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009259259259259411
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": -1.1102230246251565e-16
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004629629629629428
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00025025025025027237
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512530272
+    }
+   ]
+  },
+  "reup3": {
+   "n_edge": 41,
+   "n_edge_with_interior_tie": 11,
+   "max_gap_when_no_tie": 0.013638638638638678,
+   "median_gap_when_no_tie": 0.004504504504504625,
+   "per_fold": [
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512530272
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0001251251251251917
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.009009009009009139
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0092592592592593
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512530272
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0048798798798797005
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004379379379379267
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008883883883883836
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008758758758758645
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004254254254254075
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.008758758758758756
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004754754754754842
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004629629629629539
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00462962962962965
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": -1.1102230246251565e-16
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045046805
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00475475475475462
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045044585
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0001251251251251917
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.013638638638638678
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 2.220446049250313e-16
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00012512512512508067
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": -1.1102230246251565e-16
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0045045045045045695
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.004629629629629539
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.00913413413413422
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0092592592592593
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": true,
+     "interior_tie": true,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    },
+    {
+     "edge": false,
+     "interior_tie": false,
+     "gap_to_best_interior": 0.0
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "dataset": "breast_cancer",
+ "folds_with_different_selection": [],
+ "n_folds_different": 0,
+ "bal_mean_statevector": 0.9505000000000001,
+ "bal_mean_closed_form": 0.9505000000000001
+}

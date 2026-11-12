@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Separating State Entanglement from Kernel Effects: A Controlled Study of Quantum and Classical Kernels on Two Clinical Datasets"
+authors:
+  - family-names: Park
+    given-names: Jounsup
+    affiliation: "California Baptist University"
+license: MIT
+repository-code: "https://github.com/joupark/quantum-kernel-entanglement-clinical"

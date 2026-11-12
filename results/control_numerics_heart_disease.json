@@ -1,0 +1,10 @@
+{
+ "dataset": "heart_disease",
+ "folds_with_different_selection": [
+  48,
+  96
+ ],
+ "n_folds_different": 2,
+ "bal_mean_statevector": 0.8326785714285714,
+ "bal_mean_closed_form": 0.832308201058201
+}
